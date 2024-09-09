@@ -6,7 +6,7 @@ Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 Você pode entrar em contato comigo 📫
-jhonatan.schmitt@escola.pr.gov
+jhonatan.schmitt@escola.pr.gov.br
 
 
 https://github.com/SchimttJhonatan12
